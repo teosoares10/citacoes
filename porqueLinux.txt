@@ -1,0 +1,5 @@
+Por que usar o Linux?
+
+* É livre
+* É seguro
+* É customizavel
